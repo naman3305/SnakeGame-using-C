@@ -4,7 +4,8 @@
 
 //Node defination
 
-typedef struct Node {
+typedef struct Node 
+{
     int x;
     int y;
     struct Node* next;
