@@ -31,7 +31,8 @@ void printList(Node* head) {
 
 // Print the board
 
-void displayBoard(char** board, int m, int n) {
+void displayBoard(char** board, int m, int n) 
+{
     for(int i = 0; i <= m; i++) printf("##");
 
     for(int i = 0; i < m; i++) {
