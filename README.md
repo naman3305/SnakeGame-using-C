@@ -1,1 +1,1 @@
-# SnakeGame-using-C
+# SnakeGame using C
